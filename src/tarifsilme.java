@@ -226,7 +226,7 @@ public class tarifsilme extends javax.swing.JFrame {
     
     private static final String DB_URL = "jdbc:mysql://localhost:3306/yemektarif?zeroDateTimeBehavior=CONVERT_TO_NULL";
     private static final String USER = "root";
-    private static final String PASS = "kirpi1974";
+    private static final String PASS = "1234";
     
     private DefaultTableModel tarifTableModel;
     
